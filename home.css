@@ -1,0 +1,87 @@
+#menu{background-color:#898d8d;width:1600px;height: 70px;position: fixed;top:0;left: 0;}
+       
+        
+        #ban{border-style: solid;border-width: thin;border-color: silver;width: 1582px;height: 490px; background-image:url(images/banner.jpg);background-blend-mode: darken}
+    
+        #body{width: 1580px;height: 500px;}
+        
+        
+    ul li{list-style: none;display: inline}
+        
+    ul{text-align: right;padding-top: -20px }
+         submit:hover{color: blue}
+        
+        li{margin: 20px;margin-top: 40px; color:white;font-family: sans-serif;font-size: 15px;text-decoration: none;background-color:#47556c;padding: 5px; border-bottom-left-radius: 20px;border-top-right-radius: 20px}
+        a{color: white;text-decoration: none;}
+        li:hover{background-color: #484ef0}
+        a:hover{color:#1e2626}
+        
+        img{float: left;}
+        
+        #sub{float: left}
+       
+        
+        #me{font-family: verdana;border-style: solid; border-color: cornflowerblue;color:white;word-spacing: 5px;letter-spacing: 5px; background-color: cornflowerblue;width: 1580px;}
+        
+        #pme{font-family: sans-serif; color:floralwhite;text-align: center;letter-spacing: normal}
+        
+        #pme{font-family: sans-serif; color:darkblue;text-align: center;letter-spacing: normal}
+        
+        #sub{width: 828px;height: 500px}
+        
+         #ssub{float: left}
+        
+        #d{height:200px;width:1580px; background-color: #e9eef7}
+    
+        #ssub{height:200px;width:393px;border-color: white}
+        
+        .lm{padding-left: 180px;height: 30;width: 40px;margin-top: 6px; }
+        
+        #h{margin-left: 160;letter-spacing: 5px; font-family: verdana; color: dodgerblue}
+        
+        #c{margin-left: 150;letter-spacing: 5px; font-family: verdana; color: dodgerblue}
+        
+        #j{margin-left: 120;letter-spacing: 5px; font-family: verdana; color: dodgerblue}
+        
+        #p{margin-left: 158;letter-spacing: 5px; font-family: verdana; color: dodgerblue}
+        
+        #am{margin: 25px;margin-top: 10px; font-family: verdana; color:darkblue;text-align: center;}
+        
+        #exp{font-family: verdana;border-style: solid; border-color: cornflowerblue;color:white;word-spacing: 5px;letter-spacing: 5px; background-color: cornflowerblue;width: 1580px}
+        
+        #ak{font-family:sans-serif;color:aliceblue;padding-top: 20px; padding-left: 20px;background-color: grey;width: 310px;margin-left: 20px;padding: 10px;border-top-right-radius: 20px;border-bottom-left-radius: 20px}
+        
+        #ind{font-family: sans-serif;padding-left: 20px;color:darkslategrey;text-align:justify; padding-right: 20px}
+        
+        #jobs{padding-left: 20px; padding-right: 30px}
+        
+        #bu{color:yellow;font-family: verdana;font-size: 10px}
+        
+        #joblink{font-family: sans-serif;padding-left: 20px;color:darkslategrey;text-align:justify}
+        
+        #ul{margin-top: 40px}
+        
+        #jobs{background-color:cornflowerblue;color:aliceblue;border-radius: 5px; padding: 3px}
+        
+        #climg{margin: 20px}
+        
+        #lastp{height:300px;width:1580px;background-color: #03112c;position: relative;}
+        
+        #rit{height:50px;width:1579px; background-color: #414141;padding: 1px}
+        
+        #res{color: white;text-align: center;padding-bottom: 50px;font-family: sans-serif}
+        
+        #timg{margin-left: 20px}
+        
+        #stubborn{margin-top: 23px}
+       
+        
+        #form{;height: 300px;width:524.2px}
+        #form{float: left}
+        #fs{margin-top: 1px; margin-bottom: 250px;margin-right: 20px;margin-left: 20px;border-bottom-left-radius: 20px;border-top-right-radius: 20px}
+        #ad{margin-left: 20px;color: white;font-family: sans-serif;font-size: 14px; margin-top: 10px}
+        #es{margin-left: 12px;color: white;font-family: sans-serif;font-size: 13px; margin-top: 70px}
+        #simg{object-position: center}
+        #wa{color: white;font-family: sans-serif}
+        #se{background-color: dodgerblue;padding: 0px; color: white;border-bottom-left-radius: 10px;border-top-right-radius: 10px; border-width: 0px;padding: 5px;}
+        #le{color: whitesmoke;background-color: #416bb5;border-bottom-left-radius: 5px;border-top-right-radius: 5px;padding: 2px;margin-top: 3px}
